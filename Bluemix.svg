@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96">
+  <g id="Bluemix" transform="translate(-848 -600)">
+    <circle id="Ellipse_29" data-name="Ellipse 29" cx="48" cy="48" r="48" transform="translate(848 600)" fill="#00b198"/>
+    <g id="g3956" transform="translate(867.219 598.774)">
+      <path id="engine-northeast" d="M25.461,0H8.487L0,14.7,8.487,29.4H25.461l8.487-14.7Z" transform="translate(60.981 26.926) rotate(120)" fill="#fff"/>
+      <path id="crown-engine-northeast" d="M155.539,52.722,146.781,67.9l8.758,15.176h17.526L181.822,67.9l-8.758-15.176Zm.552.955h16.423L180.73,67.9l-8.217,14.227H156.091L147.874,67.9Z" transform="translate(-124.539 -33.622)" fill="#00b198"/>
+      <path id="engine-southeast" d="M25.461,0H8.487L0,14.7,8.487,29.4H25.461l8.487-14.7Z" transform="translate(35.52 85.726) rotate(-120)" fill="#fff"/>
+      <path id="crown-engine-southeast" d="M155.539,225.927,146.781,241.1l8.758,15.176h17.526l8.758-15.176-8.758-15.176Zm.552.955h16.423L180.73,241.1l-8.217,14.227H156.091L147.874,241.1Z" transform="translate(-124.539 -177.427)" fill="#00b198"/>
+      <path id="engine-west" d="M-151.88-36.44h-16.974l-8.487,14.7,8.487,14.7h16.974l8.487-14.7Z" transform="translate(174.669 70.716)" fill="#fff"/>
+      <path id="crown-engine-west" d="M5.539,139.313l-8.758,15.176,8.758,15.176H23.065l8.758-15.176-8.758-15.176Zm.552.955H22.513l8.217,14.221-8.217,14.227H6.091l-8.217-14.227Z" transform="translate(0 -105.515)" fill="#00b198"/>
+      <path id="triangle" d="M148.375,139.313v30.352l26.284-15.176Zm.949,1.65,23.435,13.526L149.324,168.02Z" transform="translate(-125.862 -105.515)" fill="#00b198"/>
+      <path id="circle" d="M116.974,128.719a16.974,16.974,0,1,0,16.974,16.974A16.974,16.974,0,0,0,116.974,128.719Zm0,.955a16.022,16.022,0,1,1-16.025,16.019A16.021,16.021,0,0,1,116.974,129.674Z" transform="translate(-85.698 -96.719)" fill="#00b198"/>
+    </g>
+  </g>
+</svg>

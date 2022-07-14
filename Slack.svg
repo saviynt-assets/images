@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96">
+  <g id="Slack" transform="translate(-1252 -213)">
+    <circle id="Ellipse_22" data-name="Ellipse 22" cx="48" cy="48" r="48" transform="translate(1252 213)" fill="#4d144e"/>
+    <g id="Slack_icon_2019" transform="translate(1270.3 231.4)">
+      <path id="Path_66" data-name="Path 66" d="M13.163,72.981A6.181,6.181,0,1,1,6.981,66.8h6.181Zm3.091,0a6.181,6.181,0,0,1,12.363,0V88.435a6.181,6.181,0,0,1-12.363,0Z" transform="translate(-0.053 -35.2)" fill="#e01e5a"/>
+      <path id="Path_67" data-name="Path 67" d="M22.381,12.963a6.181,6.181,0,1,1,6.181-6.181v6.181Zm0,3.137a6.181,6.181,0,0,1,0,12.363H6.881a6.181,6.181,0,0,1,0-12.363Z" transform="translate(0)" fill="#36c5f0"/>
+      <path id="Path_68" data-name="Path 68" d="M82.353,22.281a6.181,6.181,0,1,1,6.181,6.181H82.353Zm-3.091,0a6.181,6.181,0,1,1-12.363,0V6.781a6.181,6.181,0,1,1,12.363,0v15.5Z" transform="translate(-35.2)" fill="#2eb67d"/>
+      <path id="Path_69" data-name="Path 69" d="M73.081,82.253A6.181,6.181,0,1,1,66.9,88.435V82.253Zm0-3.091a6.181,6.181,0,1,1,0-12.363h15.5a6.181,6.181,0,1,1,0,12.363Z" transform="translate(-35.2 -35.2)" fill="#ecb22e"/>
+    </g>
+  </g>
+</svg>

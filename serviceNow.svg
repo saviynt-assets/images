@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96">
+  <g id="serviceNow" transform="translate(-1358 -195)">
+    <circle id="Ellipse_76" data-name="Ellipse 76" cx="48" cy="48" r="48" transform="translate(1358 195)" fill="#032d42"/>
+    <g id="servicenow-icon" transform="translate(1374 214)">
+      <path id="Path_400" data-name="Path 400" d="M32.2,0A32.267,32.267,0,0,0,9.95,55.571a6.346,6.346,0,0,0,8.264.43,23.034,23.034,0,0,1,27.445,0,6.364,6.364,0,0,0,8.389-.43A32.27,32.27,0,0,0,32.2,0m-.18,48.275A15.63,15.63,0,0,1,15.883,32.249a16.044,16.044,0,1,1,32.069,0A15.615,15.615,0,0,1,31.926,48.275" fill="#86ed78" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

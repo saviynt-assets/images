@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96">
+  <g id="dropbox" transform="translate(-206 -374)">
+    <circle id="Ellipse_75" data-name="Ellipse 75" cx="48" cy="48" r="48" transform="translate(206 374)" fill="#007ee5"/>
+    <path id="Dropbox_Icon" d="M16.313,0,0,10.571l11.354,9.135L27.668,9.527,16.313,0ZM0,28.581l16.313,10.7,11.354-9.527L11.354,19.707,0,28.581Zm27.668,1.175,11.485,9.527L55.335,28.712l-11.224-9L27.668,29.756ZM55.335,10.571,39.152,0,27.668,9.527l16.444,10.18ZM27.8,31.844,16.313,41.371l-4.829-3.263v3.654L27.8,51.55l16.313-9.788V38.108l-4.959,3.263L27.8,31.844Z" transform="translate(226 396)" fill="#fff"/>
+  </g>
+</svg>

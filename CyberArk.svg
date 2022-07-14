@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96">
+  <g id="CyberArk" transform="translate(-924 -1270)">
+    <circle id="Ellipse_62" data-name="Ellipse 62" cx="48" cy="48" r="48" transform="translate(924 1270)" fill="#162548"/>
+    <g id="Group_169" data-name="Group 169" transform="translate(946 1288)">
+      <path id="Path_220" data-name="Path 220" d="M25.7,0,0,15.056l13.231,7.715L25.7,15.452Z" fill="#3f7eb8"/>
+      <path id="Path_221" data-name="Path 221" d="M264.209,297.5l-12.488,7.3.023,15.452,25.664-15.025V289.759Z" transform="translate(-225.994 -260.144)" fill="#105eaa"/>
+      <path id="Path_222" data-name="Path 222" d="M251.489,0V15.452l12.48,7.3,13.2-7.73Z" transform="translate(-225.785)" fill="#105eaa"/>
+      <path id="Path_223" data-name="Path 223" d="M.4,373.371l25.711,14.993-.015-15.452-12.5-7.287Z" transform="translate(-0.355 -328.256)" fill="#3f7eb8"/>
+      <path id="Path_224" data-name="Path 224" d="M.04,177.373l13.191-7.745v-14.6L0,147.315Z" transform="translate(0 -132.258)" fill="#105eaa"/>
+      <path id="Path_225" data-name="Path 225" d="M251.489,165.8V151.181l12.48,7.3V173.1Z" transform="translate(-225.786 -135.729)" fill="#9a9c9e"/>
+      <path id="Path_226" data-name="Path 226" d="M129.457,158.5l12.472-7.319V165.8l-12.472,7.3Z" transform="translate(-116.226 -135.729)" fill="#5d5e61"/>
+    </g>
+  </g>
+</svg>

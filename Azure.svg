@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="96" height="96" viewBox="0 0 96 96">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_114" data-name="Rectangle 114" width="64.303" height="49.807" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Azure" transform="translate(-1214 -16)">
+    <circle id="Ellipse_74" data-name="Ellipse 74" cx="48" cy="48" r="48" transform="translate(1214 16)" fill="#0089d6"/>
+    <g id="Group_260" data-name="Group 260" transform="translate(1230 39)">
+      <g id="Group_259" data-name="Group 259" transform="translate(0 0)" clip-path="url(#clip-path)">
+        <path id="Path_355" data-name="Path 355" d="M27.8,46.679C36.061,45.22,42.884,44.012,42.962,44l.143-.031-7.8-9.277c-4.29-5.1-7.8-9.3-7.8-9.322,0-.045,8.054-22.224,8.1-22.3C35.621,3.036,41.1,12.5,48.891,26,56.184,38.641,62.2,49.064,62.253,49.162l.1.177-24.788,0-24.788,0L27.8,46.679" transform="translate(1.949 0.467)" fill="#fff"/>
+        <path id="Path_356" data-name="Path 356" d="M0,44.317c0-.013,3.676-6.393,8.167-14.178l8.167-14.153L25.852,8C31.087,3.606,35.384.006,35.4,0a1.7,1.7,0,0,1-.153.385L24.913,22.552,14.762,44.323l-7.381.009c-4.059,0-7.381,0-7.381-.015" transform="translate(0 0)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
