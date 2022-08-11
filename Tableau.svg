@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96">
+  <g id="Tableau" transform="translate(-36 -1285)">
+    <circle id="Ellipse_91" data-name="Ellipse 91" cx="48" cy="48" r="48" transform="translate(36 1285)" fill="#1f457e"/>
+    <g id="tableau-software" transform="translate(53 1303.25)">
+      <path id="Path_733" data-name="Path 733" d="M28.5,40.2h3.3v-9h8.3V28H31.8V19H28.5v9H20.3v3.2h8.2Z" fill="#fff"/>
+      <path id="Path_734" data-name="Path 734" d="M13.2,53.2H16v-8h7.4V42.7H16V34.6H13.2v8.1H5.8v2.5h7.4Z" fill="#fff"/>
+      <path id="Path_735" data-name="Path 735" d="M44.3,24.3h2.8v-8h7.5V13.9H47.1V5.8H44.3v8.1H36.9v2.4h7.4Z" fill="#fff"/>
+      <path id="Path_736" data-name="Path 736" d="M29,59.5h2.4V53.8h5.1V51.7H31.4V46H29v5.7H24v2.1h5Z" fill="#fff"/>
+      <path id="Path_737" data-name="Path 737" d="M13.3,24.3h2.6V16.2h7.5V13.9H15.9V5.8H13.3v8.1H5.8v2.3h7.5Z" fill="#fff"/>
+      <path id="Path_738" data-name="Path 738" d="M52.8,36.3h2.4V30.7h5.1V28.5H55.2V22.9H52.8v5.6h-5v2.2h5Z" fill="#fff"/>
+      <path id="Path_739" data-name="Path 739" d="M44.3,53.2h2.8v-8h7.5V42.7H47.1V34.6H44.3v8.1H36.9v2.5h7.4Z" fill="#fff" fill-rule="evenodd"/>
+      <path id="Path_740" data-name="Path 740" d="M36.1,7.2V5.5h-5V0H29.3V5.5h-5V7.2h5v5.5h1.8V7.2ZM5,35.9H6.8V30.4h5V28.7h-5V23.3H5v5.4H0v1.8l5-.1Z" fill="#fff"/>
+    </g>
+  </g>
+</svg>

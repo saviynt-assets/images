@@ -1,0 +1,11 @@
+<svg id="freshdesk" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="96" height="96.003" viewBox="0 0 96 96.003">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_199" data-name="Rectangle 199" width="96" height="96.003" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_439" data-name="Group 439" clip-path="url(#clip-path)">
+    <path id="Path_766" data-name="Path 766" d="M47.834,0H83.89A12.006,12.006,0,0,1,96,11.9q0,.1,0,.208V48.165A47.849,47.849,0,0,1,48.163,96H47.89A48,48,0,0,1,47.837.009Z" transform="translate(0 0)" fill="#25c16f"/>
+    <path id="Path_767" data-name="Path 767" d="M210.419,155.849a21.981,21.981,0,0,0-21.982,21.982v14.946a7.482,7.482,0,0,0,7.31,7.31h6.219V182.935h-8.4v-4.8a17.073,17.073,0,0,1,34.092,0v4.8h-8.508v17.152h5.619v.272a6.873,6.873,0,0,1-6.763,6.763h-6.713c-.544,0-1.144.272-1.144.819a1.221,1.221,0,0,0,1.144,1.144h6.763a8.783,8.783,0,0,0,8.727-8.727v-.544a7.227,7.227,0,0,0,5.619-7.091V178.106a21.671,21.671,0,0,0-21.984-22.257" transform="translate(-162.584 -134.467)" fill="#fff"/>
+  </g>
+</svg>

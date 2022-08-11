@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="96" height="96" viewBox="0 0 96 96">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_108" data-name="Rectangle 108" width="83.66" height="20.998" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="SAP_HANA" data-name="SAP HANA" transform="translate(-274 -17)">
+    <circle id="Ellipse_39" data-name="Ellipse 39" cx="48" cy="48" r="48" transform="translate(274 17)" fill="#1976d2"/>
+    <g id="Group_242" data-name="Group 242" transform="translate(280 55)">
+      <g id="Group_241" data-name="Group 241" transform="translate(0 0)" clip-path="url(#clip-path)">
+        <path id="Path_314" data-name="Path 314" d="M18.423,9.7,17.1,13.833a3.651,3.651,0,0,0,2.645,0Z" transform="translate(-2.964 -1.681)" fill="#fff"/>
+        <path id="Path_315" data-name="Path 315" d="M30.509,8.1H29.6v3.389h.909c1.24,0,2.232-.413,2.232-1.736,0-1.24-.992-1.653-2.232-1.653" transform="translate(-5.13 -1.404)" fill="#fff"/>
+        <path id="Path_316" data-name="Path 316" d="M0,0V21H21.411l21-21H0M25.792,12.9H24.47v3.968h-6.2l-.579-1.819a6.164,6.164,0,0,1-2.149.331,9.054,9.054,0,0,1-2.232-.331l-.661,1.9h-3.8l.413-1.157-.165.165a6.131,6.131,0,0,1-3.555,1.24H5.291a10.258,10.258,0,0,1-4.712-1.24L1.9,13.392a5.9,5.9,0,0,0,3.472.992A1.941,1.941,0,0,0,6.7,13.971a.939.939,0,0,0,.248-.661c0-.661-.909-.992-2.067-1.323a9.679,9.679,0,0,1-2.811-1.323A3.136,3.136,0,0,1,.661,7.771a3.311,3.311,0,0,1,.992-2.4A5.844,5.844,0,0,1,5.787,3.885,10.442,10.442,0,0,1,10.5,5.043L9.011,7.605a7.012,7.012,0,0,0-3.059-.827c-1.24-.083-1.9.413-1.9.827,0,.579,1.157,1.157,2.315,1.488,1.736.579,3.885,1.24,4.216,3.389l3.141-8.267H17.36L21,14.136V4.216h4.133C29.1,4.216,31,5.621,31,8.763c0,2.48-1.9,4.133-5.208,4.133" transform="translate(0 0)" fill="#fff"/>
+        <path id="Path_317" data-name="Path 317" d="M51.792,17.664V13.448H47v4.216H44.6V7H47v4.3h4.795V7.083h2.315V17.747H51.792Z" transform="translate(-7.73 -1.213)" fill="#fff"/>
+        <path id="Path_318" data-name="Path 318" d="M66.263,15.845H60.807l-.744,1.819H57.5L62.295,7h2.563l4.795,10.664H67.09ZM63.535,9.4l-1.819,4.381h3.637Z" transform="translate(-9.966 -1.213)" fill="#fff"/>
+        <path id="Path_319" data-name="Path 319" d="M80.94,13.944l-.165-3.307V7.083h2.4V17.747H81.105l-5.291-6.779L75.9,14.44v3.307H73.5V7h2.067Z" transform="translate(-12.739 -1.213)" fill="#fff"/>
+        <path id="Path_320" data-name="Path 320" d="M95.345,15.845H89.889l-.744,1.819H86.5L91.295,7h2.563l4.795,10.664H96.09ZM92.617,9.4,90.8,13.7h3.637Z" transform="translate(-14.992 -1.213)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

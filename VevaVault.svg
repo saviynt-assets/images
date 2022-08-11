@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="96" height="96" viewBox="0 0 96 96">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff9d14"/>
+      <stop offset="1" stop-color="#f48912"/>
+    </linearGradient>
+  </defs>
+  <g id="Veva_Vault" data-name="Veva Vault" transform="translate(-851 -391)">
+    <circle id="Ellipse_23" data-name="Ellipse 23" cx="48" cy="48" r="48" transform="translate(851 391)" fill="url(#linear-gradient)"/>
+    <g id="veeva" transform="translate(869 408)">
+      <path id="path4497" d="M25.947,52.878C22.22,45.313,9.786,20.142,2.76,5.932,1.237,2.839,0,.1,0,0H10.166Q20.206,20.127,30.23,40.269C37.462,25.773,44.091,12.212,50.1,0h9.944C49.341,22.062,41.982,37.129,31.99,57.319l-1.935,3.9Z" transform="translate(0 0)" fill="#fff"/>
+      <path id="path4501" d="M104.4.1h26.9c0,.127-13.291,26.867-13.354,26.867C113.52,17.863,108.175,8.236,104.4.1Z" transform="translate(-87.842 -0.084)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
