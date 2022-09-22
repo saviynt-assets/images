@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="96" height="96" viewBox="0 0 96 96">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_193" data-name="Rectangle 193" width="66.933" height="64.454" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Gitlab" transform="translate(-1332 -1285)">
+    <circle id="Ellipse_99" data-name="Ellipse 99" cx="48" cy="48" r="48" transform="translate(1332 1285)"/>
+    <g id="Group_430" data-name="Group 430" transform="translate(1347 1301)">
+      <g id="Group_429" data-name="Group 429" clip-path="url(#clip-path)">
+        <path id="Path_751" data-name="Path 751" d="M65.816,25.512l-.09-.241L56.616,1.51A2.364,2.364,0,0,0,55.68.38a2.406,2.406,0,0,0-3.614,1.375L45.917,20.579h-24.9L14.868,1.755A2.41,2.41,0,0,0,11.254.38a2.364,2.364,0,0,0-.937,1.13L1.213,25.276l-.095.236A16.912,16.912,0,0,0,6.73,45.058l.034.026.077.06L20.7,55.53l6.875,5.195,4.177,3.158a2.823,2.823,0,0,0,3.4,0l4.177-3.158,6.875-5.195L60.161,45.084l.039-.03a16.912,16.912,0,0,0,5.616-19.542" transform="translate(0 0)" fill="#e24329"/>
+        <path id="Path_752" data-name="Path 752" d="M110.25,59.055l-.09-.241a30.721,30.721,0,0,0-12.246,5.509l-20,15.125,12.736,9.625L104.6,78.627l.039-.03a16.913,16.913,0,0,0,5.607-19.542" transform="translate(-44.434 -33.542)" fill="#fc6d26"/>
+        <path id="Path_753" data-name="Path 753" d="M48.172,116.459l6.875,5.195,4.177,3.158a2.823,2.823,0,0,0,3.4,0l4.177-3.158,6.875-5.195-12.736-9.625Z" transform="translate(-27.473 -60.929)" fill="#fca326"/>
+        <path id="Path_754" data-name="Path 754" d="M13.454,64.328a30.7,30.7,0,0,0-12.242-5.5l-.095.236A16.912,16.912,0,0,0,6.73,78.607l.034.026.077.06L20.7,89.078l12.744-9.625Z" transform="translate(0 -33.548)" fill="#fc6d26"/>
+      </g>
+    </g>
+  </g>
+</svg>
