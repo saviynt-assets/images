@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="96" height="96" viewBox="0 0 96 96">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_200" data-name="Rectangle 200" width="63.807" height="64" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="lucidchart" transform="translate(-1039 -1468)">
+    <circle id="Ellipse_106" data-name="Ellipse 106" cx="48" cy="48" r="48" transform="translate(1039 1468)" fill="#de8b30"/>
+    <g id="Group_441" data-name="Group 441" transform="translate(1055 1484)">
+      <g id="Group_440" data-name="Group 440" clip-path="url(#clip-path)">
+        <path id="Path_772" data-name="Path 772" d="M63.627,55.613a8.365,8.365,0,0,0-8.387-8.387A8.387,8.387,0,1,0,55.24,64a8.364,8.364,0,0,0,8.387-8.387M55.42,16.775a8.365,8.365,0,0,1-8.387-8.387,8.387,8.387,0,1,1,16.774,0,8.366,8.366,0,0,1-8.387,8.387ZM40.1,55.613a8.387,8.387,0,1,1-16.774,0A15.41,15.41,0,0,0,8.015,40.3,8.125,8.125,0,0,1,0,32.1a8.37,8.37,0,0,1,8.387-8.387A15.41,15.41,0,0,0,23.7,8.4,8.05,8.05,0,0,1,31.9.182a8.213,8.213,0,0,1,8.2,8.387,8.253,8.253,0,0,1-8.387,8.387,15.322,15.322,0,0,0,0,30.644A7.851,7.851,0,0,1,40.1,55.623Z" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
