@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="96" height="96" viewBox="0 0 96 96">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_270" data-name="Rectangle 270" width="46" height="64" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Fivetran" transform="translate(-153 -1304)">
+    <circle id="Ellipse_125" data-name="Ellipse 125" cx="48" cy="48" r="48" transform="translate(153 1304)" fill="#0073ff"/>
+    <g id="Group_884" data-name="Group 884" transform="translate(178 1320)">
+      <g id="Group_883" data-name="Group 883" clip-path="url(#clip-path)">
+        <path id="Path_930" data-name="Path 930" d="M31.8,32h6.4a1,1,0,0,0,1-1,.6.6,0,0,0-.1-.4L28.1.6a1.149,1.149,0,0,0-.9-.6H20.8a1,1,0,0,0-1,1,.367.367,0,0,0,.1.3L31,31.5a.792.792,0,0,0,.8.5" fill="#fff"/>
+        <path id="Path_931" data-name="Path 931" d="M30.7,64h6.4a1,1,0,0,0,1-1,.367.367,0,0,0-.1-.3L15.2.6a1.013,1.013,0,0,0-.9-.6H7.9a1,1,0,0,0-1,1,.367.367,0,0,0,.1.3L29.8,63.4a.875.875,0,0,0,.9.6" fill="#fff"/>
+        <path id="Path_932" data-name="Path 932" d="M18,64h6.4a1.063,1.063,0,0,0,1-.9.6.6,0,0,0-.1-.4L14.2,32.6a.875.875,0,0,0-.9-.6H6.8a.987.987,0,0,0-.9,1,.367.367,0,0,0,.1.3L17,63.4a1.217,1.217,0,0,0,1,.6" fill="#fff"/>
+        <path id="Path_933" data-name="Path 933" d="M32.6,1.3l5.2,14.1a.875.875,0,0,0,.9.6H45a1,1,0,0,0,1-1,.367.367,0,0,0-.1-.3L40.7.6a.871.871,0,0,0-.8-.6H33.5a1,1,0,0,0-1,1,.367.367,0,0,0,.1.3" fill="#fff"/>
+        <path id="Path_934" data-name="Path 934" d="M6.2,64h6.4a1,1,0,0,0,1-1,.367.367,0,0,0-.1-.3L8.3,48.6a.875.875,0,0,0-.9-.6H1a1,1,0,0,0-1,1,.367.367,0,0,0,.1.3L5.3,63.4a.875.875,0,0,0,.9.6" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
